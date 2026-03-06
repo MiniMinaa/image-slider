@@ -5,6 +5,7 @@
 }
 body {
   background: #eaeaea;
+  overflow: hidden;
 }
 .container {
   position: absolute;
